@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @advaitpathak21
 
-![](https://github.com/advaitpathak21/advaitpathak21/blob/main/goku_ready.gif)
+> ![](https://github.com/advaitpathak21/advaitpathak21/blob/main/goku_ready.gif)
 
 - 🎓 Currently pursuing Masters in Cybersecurity from New York University (NYU). Undergrad in Computer Science.
 - 👀 I’m interested in Security, Development, PenTesting.
