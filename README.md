@@ -7,7 +7,7 @@
 - 🐱‍💻 I’m currently 'investigating' VAPT, Cloud Security.
 - 🐱‍👤 Also trying to level up my coding/dev game.
 - 💞️ I’m looking to collaborate on CTFs.
-- ♟ Always up for a game of Chess.
+- ♟ Always up for a game of Chess - mrrobot2199 @ Chess.com.
 - 📫 How to reach me: twitter - @advaitpathak21
 
 <!---
