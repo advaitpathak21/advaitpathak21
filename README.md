@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @advaitpathak21
-- 👀 I’m interested in PenTesting.
-- 🌱 I’m currently learning VAPT, Cloud Security.
-- 💞️ I’m looking to collaborate on CTFs
+- 🎓 Currently pursuing Masters in Cybersecurity from New York University (NYU). Undergrad in Computer Science.
+- 👀 I’m interested in Security, Development, PenTesting.
+- 🐱‍💻 I’m currently 'investigating' VAPT, Cloud Security.
+- 🐱‍👤 Also trying to level up my coding/dev game.
+- 💞️ I’m looking to collaborate on CTFs.
+- ♟ Always up for a game of Chess.
 - 📫 How to reach me: twitter - @advaitpathak21
 
 <!---
