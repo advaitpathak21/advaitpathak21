@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @advaitpathak21
+
+![](https://tenor.com/bhR7D.gif)
+
 - 🎓 Currently pursuing Masters in Cybersecurity from New York University (NYU). Undergrad in Computer Science.
 - 👀 I’m interested in Security, Development, PenTesting.
 - 🐱‍💻 I’m currently 'investigating' VAPT, Cloud Security.
