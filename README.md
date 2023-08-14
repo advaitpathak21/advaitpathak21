@@ -2,7 +2,8 @@
 
 >&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/advaitpathak21/advaitpathak21/blob/main/goku_ready.gif)
 
-- 🎓 Currently pursuing Masters in Cybersecurity from New York University (NYU). Undergrad in Computer Science.
+- 💻 I am a Pentester/Consultant.
+- 🎓 Masters in Cybersecurity from New York University (NYU). Undergrad in Computer Science.
 - 👀 I’m interested in Security, Development, PenTesting.
 - 🐱‍💻 I’m currently 'investigating' VAPT, Cloud Security.
 - 🐱‍👤 Also trying to level up my coding/dev game.
